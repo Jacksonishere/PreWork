@@ -32,9 +32,6 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [ezgif](https://ezgif.com/).
 
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
